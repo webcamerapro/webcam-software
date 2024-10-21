@@ -1,4 +1,5 @@
 # cloud video surveillance software
 # cctv cloud
-Webcam software for cctv / video surveillance
-https://videosurveillance.cloud/
+CCTV software for cloud video surveillance
+
+https://videosurveillance.cloud
