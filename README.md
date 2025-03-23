@@ -1,5 +1,6 @@
-# cloud video surveillance software
+# cloud video surveillance
 # cctv cloud
-CCTV software for cloud video surveillance
+
+VMS software for cloud video surveillance
 
 https://videosurveillance.cloud
